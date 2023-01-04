@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head> 
+    <meta charset="UTF-8">
+    <Title>Amandine Giron</Title>
+    <link href="https://cdn.jsdelivr.net/npm/remixicon@2.3.0/fonts/remixicon.css" rel="stylesheet">
+    <link href="Style.css" rel="stylesheet">
+</head>  
+<body>
+    <div class="upper">
+        <h1><a href="Main.html">Amandine Giron</a></h1>
+    </div>
+
+    <main>
+        
+        <div class="Project">
+            <h2><a href="Project.html">Projet</a></h2>
+        </div>
+        
+        <div class="Writing">
+            <h2><a href="Writing.html">Ecriture</a></h2>
+        </div>
+
+        <div class="Creativity">
+            <h2><a href="Creativity.html">Portofolio</a></h2>
+        </div>
+    </main>
+</body>
+    
