@@ -8,7 +8,7 @@
 </head>  
 <body>
     <div class="upper">
-        <h1><a href="Main.html">Amandine Giron</a></h1>
+        <h1><a href="Accueil.html">Amandine Giron</a></h1>
     </div>
 
     <main>
@@ -22,7 +22,7 @@
         </div>
 
         <div class="Creativity">
-            <h2><a href="Creativity.html">Portofolio</a></h2>
+            <h2><a href="Portofolio.html">Portofolio</a></h2>
         </div>
     </main>
 </body>
